@@ -1,16 +1,6 @@
 # ToDo_List
 This is an activity for MITx Pro FullStack WebDev
 
-
-# PacMan
-
-After some ☕ and some 🍎 this is the outcome.
-
-Full-Stack Web Development Programming Certificate (MERN) from MIT xPro.
-
-# Name:
-> ToDo List
-
 # Description: 
 > Short project description. 
 
